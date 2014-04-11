@@ -1,1 +1,0 @@
-C:\Users\Csaba\documents\visual studio 2013\Projects\IISAdmin\IISAdmin\bin\Debug\IISAdmin.exe.config
