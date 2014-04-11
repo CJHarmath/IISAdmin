@@ -1,0 +1,6 @@
+c:\users\csaba\documents\visual studio 2013\Projects\IISAdmin\IISAdmin\bin\Debug\IISAdmin.exe.config
+c:\users\csaba\documents\visual studio 2013\Projects\IISAdmin\IISAdmin\bin\Debug\IISAdmin.exe
+c:\users\csaba\documents\visual studio 2013\Projects\IISAdmin\IISAdmin\bin\Debug\IISAdmin.pdb
+c:\users\csaba\documents\visual studio 2013\Projects\IISAdmin\IISAdmin\obj\Debug\IISAdmin.csprojResolveAssemblyReference.cache
+c:\users\csaba\documents\visual studio 2013\Projects\IISAdmin\IISAdmin\obj\Debug\IISAdmin.exe
+c:\users\csaba\documents\visual studio 2013\Projects\IISAdmin\IISAdmin\obj\Debug\IISAdmin.pdb
